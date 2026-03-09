@@ -164,7 +164,7 @@ const mobileFiltersOpen = ref(false);
           </div>
           <!-- hide on small -->
           <p class="mt-4 text-base text-gray-500 max-md:hidden">
-            Les marches ADEPS sont des marches organisées du <span class="font-semibold">{{ toFrenchDate(start_date) }}</span> au <span class="font-semibold">{{ toFrenchDate(end_date) }}</span> par la Fédération Wallonie-Bruxelles pour promouvoir la pratique de la marche en tant qu'activité physique.
+            Les marches ADEPS sont des marches organisées par la Fédération Wallonie-Bruxelles pour promouvoir la pratique de la marche en tant qu'activité physique. Vous trouverez ci-dessous celles organisées du <span class="font-semibold">{{ toFrenchDate(start_date) }}</span> au <span class="font-semibold">{{ toFrenchDate(end_date) }}</span>.
           </p>
   
           <div class="pt-12 lg:grid lg:grid-cols-3 lg:gap-x-8 xl:grid-cols-4">
