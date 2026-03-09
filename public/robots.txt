@@ -1,0 +1,6 @@
+# robots.txt for Marches ADEPS
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://data-cfwb.github.io/marches-adeps/sitemap.xml
