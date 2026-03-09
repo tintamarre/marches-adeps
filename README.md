@@ -1,6 +1,8 @@
 # marches-adeps
 
-This template should help get you started developing with Vue 3 in Vite.
+> **Note** : Ce projet est une initiative personnelle de Martin Erpicum et n'est pas un projet officiel de l'ADEPS ou de la Fédération Wallonie-Bruxelles.
+
+Application web permettant de consulter les marches ADEPS organisées en Belgique.
 
 ## Recommended IDE Setup
 

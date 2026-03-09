@@ -5,6 +5,7 @@
         <p class="text-left text-xs leading-5 text-gray-500">
           Réalisé sous licence libre. <br>
           <a href="https://github.com/data-cfwb/marches-adeps">Code source</a><br>
+          <span class="italic">Initiative personnelle de Martin Erpicum — Projet non officiel</span>
         </p>
       </div>
 
